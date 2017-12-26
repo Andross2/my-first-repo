@@ -1,4 +1,4 @@
-\# Andrew Watts
+## Andrew Watts
 
 ## Geography
 
@@ -21,7 +21,8 @@ Three games that I like are:
 
 Here is `some code` in the middle of a sentence.
 
-```
+`
+``
 This is
 a block
 of code

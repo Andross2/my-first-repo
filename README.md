@@ -1,15 +1,19 @@
-# This is a large heading
+# Andrew Watts
 
-## This is a smaller heading
+## Geography
 
-And as **imagination** bodies forth,
-The forms of things *unknown*, the poet’s pen,
-Turns them to shapes and gives to airy nothing,
-A local *habitation* and a **name**.
+I live in the city of Boston, in the state of Massachusetts,
+in the United States of America.
 
-- This is
-- an unordered
-- list
+## Reading
+
+Three games that I like are:
+
+- *Spelunky* by video game company MOSS
+- *Europa Universalis IV* by video game company Paradox Interactive
+- *Victoria II* also by Paradox Interactive
+
+## Food
 
 1. This is
 2. an ordered
